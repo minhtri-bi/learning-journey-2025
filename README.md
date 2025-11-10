@@ -30,7 +30,7 @@ My personal learning journey as a beginner BI analyst student: Excel (MOS), Japa
 - Upcoming: Power BI chi tiêu cá nhân dashboard.
 
 ## Resources
-- Excel/MOS: ExcelIsFun YouTube, GMetrix tests.
+- Excel/MOS: ExcelIsFun YouTube, GMetrix tests, Luke Barousse.
 - N4: Minna no Nihongo, JLPT Sensei, Nihongo con Teppei podcast.
 - BI: Ken Jee (career), Avi Singh (Power BI tutorials).
 - Tools: Anki (flashcard), GitHub (portfolio), LinkedIn (network).
